@@ -22,7 +22,7 @@ A game developer with a focus on immersive experiences and low-level graphics pr
 **Programming Languages**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python]([https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white))
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Development Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
