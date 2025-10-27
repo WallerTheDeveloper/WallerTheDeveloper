@@ -65,6 +65,7 @@ A game developer with a focus on immersive experiences and low-level graphics pr
 **Backend & Database**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-110340?style=flat&logo=node.js&logoColor=white)
 
 **DevOps & CI/CD**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
