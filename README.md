@@ -22,7 +22,7 @@ A game developer with a focus on immersive experiences and low-level graphics pr
 **Programming Languages**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python]([https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white))
 
 **Development Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -69,6 +69,7 @@ A game developer with a focus on immersive experiences and low-level graphics pr
 **DevOps & CI/CD**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3776AB?style=flat&logo=docker&logoColor=white)
 
 **Mobile Development**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
