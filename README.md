@@ -107,12 +107,6 @@ A lightweight dependency injection framework for C#, demonstrating clean archite
 ### [Walnut Paste Model in Blender](https://github.com/WallerTheDeveloper/walnut-paste)
 A walnut paste model I've made in Blender
 
-## 🎯 Currently Working On
-
-- Expanding VR development skills with advanced interaction systems
-- Deepening graphics programming knowledge with modern rendering APIs and techniques
-- Exploring procedural generation for game worlds
-
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [Click here!](https://wallerthedeveloper.itch.io/)
@@ -120,5 +114,3 @@ A walnut paste model I've made in Blender
 - 📧 Email: golo7ov.danil@gmail.com
 
 ---
-
-*Open to game development opportunities, collaborations, and interesting technical challenges!*
