@@ -1,6 +1,6 @@
 # Hi, I'm Danylo Golosov
 
-**Unity Developer | AR/VR Specialist | Graphics Programmer**
+**Unity Developer | AR/VR Specialist | Full Stack Developer**
 
 Based in Berlin, Germany
 
