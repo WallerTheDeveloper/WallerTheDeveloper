@@ -1,15 +1,8 @@
 # Hi, I'm Danylo Golosov
 
-**Unity Developer | AR/VR Specialist | Full Stack Developer**
+**Software Engineer | Unity Developer | AR/VR Specialist**
 
 Based in Berlin, Germany
-
-4 years of experience in developing mobile apps using AR/VR technologies. 2 years of my career
-have been specifically focusing on contributing new features for AR/VR SDK using AR Foundation, ARKit, ARCore, XR
-Interaction Toolkit, OpenXR and shipping mobile apps from start to release using newly implemented and existing
-features. My main stack includes Unity Engine, C#, C++, Python, Rust which I mostly use for developing personal server
-SDK that is later integrated into multiplayer games. Have broad knowledge of the OpenGL 3D graphics library and
-understand render pipeline flow. Also my experience includes writing native plugins for iOS mobile apps using Swift
 
 ## What I Do
 
