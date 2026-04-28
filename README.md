@@ -14,10 +14,12 @@ understand render pipeline flow. Also my experience includes writing native plug
 ## What I Do
 
 - **Software Engineering** — Designing scalable server-side architecture and translating business requirements into backend systems. Built an authoritative game server in Rust from scratch, handling client-server communication, state validation, and concurrent connections. Check this project out under [this link](https://github.com/WallerTheDeveloper/rust-server)
+- **Backend & Microservices** — designing distributed systems, RESTful APIs, and event-driven architectures (Java Spring, Python Fast API, AWS Services)
+- **Systems Engineering** — low-level networking, concurrency, and performance optimization (Rust, C++)
+- **Full-Stack Development** — end-to-end features from database schema to UI, using Vue.js, React, and TypeScript
+- **DevOps & CI/CD** — containerized deployments with Docker, automated pipelines with Jenkins, release ownership across multiple production apps
 - **AR/VR Development** — Building cross-platform AR applications with AR Foundation, ARKit, ARCore, XR Interaction Toolkit, and OpenXR. Shipped 10+ AR projects at ZAUBAR, including haptic feedback integration for VR.
 - **Game Development** — Creating games in Unity with a focus on clean architecture, state machines, and multiplayer networking. Built a fully authoritative Rust game server supporting 200+ concurrent players.
-- **Graphics Programming** — Writing custom rendering engines from scratch with C++ and OpenGL, including shader development and scene management without relying on a game engine.
-- **CI/CD & Tooling** — Setting up build automation with Jenkins and Firebase App Distribution for iOS and Android workflows.
 
 ## Tech Stack
 
