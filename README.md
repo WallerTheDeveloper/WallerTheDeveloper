@@ -73,17 +73,20 @@ Based in Berlin, Germany
 
 ## Featured Projects
 
-### [Rust Multiplayer Game (Paper.io 2 Clone)](https://github.com/WallerTheDeveloper/paperio-clone)
+### --- [Pick MA Job](https://github.com/WallerTheDeveloper/pick-ma-job)
+Pick Ma Job is a multi-user SaaS platform that scrapes job postings from Upwork and LinkedIn, evaluates every posting against your profile using Anthropic's Claude API, and presents only the most relevant opportunities in a clean, modern React UI
+
+### --- [Rust Multiplayer Game (Paper.io 2 Clone)](https://github.com/WallerTheDeveloper/paperio-clone)
 A 3D multiplayer territory-capture game with an authoritative Rust server supporting 200+ concurrent players. Full client-server communication pipeline with server-side game state validation to prevent cheating. Built with Unity URP, Protobuf/WebSocket networking, and procedural mesh rendering.
 > **Repos:** [Unity Client](https://github.com/WallerTheDeveloper/paperio-clone) · [Rust Server](https://github.com/WallerTheDeveloper/rust-server)
 
-### [Solar System Simulation](https://github.com/WallerTheDeveloper/solar-system-opengl)
+### --- [Solar System Simulation](https://github.com/WallerTheDeveloper/solar-system-opengl)
 A physics-accurate 3D solar system simulation built from scratch using C++17 and OpenGL 3.3. Custom rendering engine with modular architecture, custom shaders, camera systems, and scene management — no game engine used.
 
-### [VR Tower Defense](https://github.com/WallerTheDeveloper/vr-tower-defense)
+### --- [VR Tower Defense](https://github.com/WallerTheDeveloper/vr-tower-defense)
 A VR tower defense game built in Unity with XR Interaction Toolkit, featuring spatial tower placement and real-time enemy pathing. Tower AI uses a state machine architecture for clean, extensible combat logic.
 
-### [Parallax (Bachelor Thesis)](https://github.com/WallerTheDeveloper/Parallax)
+### --- [Parallax (Bachelor Thesis)](https://github.com/WallerTheDeveloper/Parallax)
 A 4X strategy game developed in Unity as a bachelor thesis project at Lublin University of Technology, showcasing complex game systems and custom shader work.
 
 ## Let's Connect
